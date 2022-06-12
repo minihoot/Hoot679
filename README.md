@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me e m a i l
+- 📫 How to reach me message me on Skype.
 
 <!---
 Hoot679/Hoot679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
