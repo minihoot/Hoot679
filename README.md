@@ -1,5 +1,4 @@
-Hello there! I am Hoot679, and I code random stuff (not really)
-<!---
-Hoot679/Hoot679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello!
+I'm Hoot679, aka Minihoot, and I like Nintendo, and valve.
+I can somewhat modify PHP code, but thats about it.
+Bye!
